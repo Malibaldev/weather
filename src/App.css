@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+#weather{
+  height: 500px;
+  width: 500px;
+  background: blanchedalmond;
+  box-shadow: 10px 10px 20px black;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  text-align: center;
+}
